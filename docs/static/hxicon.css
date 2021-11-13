@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'hxicon'; /* Project id 2835806 */
+  src: url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAScAAsAAAAACPQAAARNAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHFQGYACDKgqFJIRRATYCJAMUCwwABCAFhE8HRhvRB8gehY1jWYokuZKkH79MPFBj7d/K2d5hmlQbRI2aZLpoKiQIlenWmU5lusSvJdxVTl3ZLIVBpYTtFCgAKCuAhpPN8sgKsNOy/UxKhD8gCrzaF/2crd37/3PMeJG2N+BvW7tEFUW0RYPNBjqwzqvGBr13wniL7I4gLfs+Aoo12QS7xZUU+NypeRtEEDE6A3F2uDPq1SDj9XIFKairqk3XZgiPICbeCx4CePD/PvyHBUEGokoC45CjiyId3J7ip3VCp8cJ0he4HQI8PqKChKWFGcNNtf2MMAwtESpQQGQD0NF1kV/81JppncdD0KuFm+JVygv5hxclmVAFQ97Cyk0azvzibQqBX6spRH6toZD4rRM+GXnFXVNQww9AGAVDOeXL44HvHWfi4uOiA4MHX2uOuhK+UoedNwhC4DziZLiPYRgBoUSI+93CxrbW4q7DICiYeBQnQ0k/FRvbhL3RbnIHf1NtgA0Tg1uP4jS99erlMIpyHQ7bnqhq2rxj3pWMRtUGwk1sCj20K6KlcdMuqyuEpi6nH9wZ2Upv3LnrGNHYuO3alXCV2n1kx/a5VPMWfANX0ITGHbwhWEWPhW4KbcRdRzGach7GKRVQCNSJGfDsK1zqguu4j+smJh67RbAqqr6W4+VLCpaoaXxj9icIevmdP501+GTuslyHE/Rbt3xdtFIf8itkd6hteWJ6EmpDd6csemU05PD9YE9XrYz7Ea91hlRp3YYGw9MlEiwQ66yRTy6Qze6+j78gcCFkPk3mTgZ4Otv/o69fkXtdTzVgMvfYlmd7i6D2jYiLezb+drwnzFuspojTtUUAMV1zwv+8sJ63KXFxkadrq/Iteyi7VOI/efY0/uzoM4k0+7DfsrTawnvuopng0OT9d7b991rgRX2lZiS5xD/pna348mC/Yk7ZAuA+q4+m25KqksiHpM1+x3TyEZlnvHjx1i2moaG9dLC4rA8rYav0nYo6RXV1aq2ys59hoA+gXboozAJoS0+FmT7qLel0dz2GQNfpuzWdvpl/ZMTz6vrufj6EnW0ZugtevKAx/zdRtDVsm1UuUWSo1LYKVKO9AaZEFAV/Roxen4dR9jXOJKjqiyGqGYGkagyRMTNQ0bQkrZrKdQzFoqzNTX0MhEKWAzMGEQQtTxB1eoak5R2RMR9QMegFVLX8heLYn/2aZkJFAYfUPNKRmn7SqGVtjGXjDX1hej3Sd1vUnChw/TTiHEbsJucr0jLREmRDXNsFjh79Ap5nSIZjrWTxEBdDFgtL2jnWhLS8wsDz9nSlkoHeRKFlrVCAg6jxEB2SRj+SkRbLhnFjPIO+/O/rIXrdLNQ4sCROpCEch8ojvUnzKaRVIkrktgZlJ17s0ENvAR6PQWKUTJYVqXgpUkRSLVgkO1xogmjxFITXIWCXTmm2Y5rKFdMqrXeMx1Vh3KASBJgQE2FiTAL5irUiKaPuYYwWi9AvEjsMag4BAAAAAA==')
+    format('woff2');
+}
+
+.hxicon {
+  font-family: 'hxicon' !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hxicon-home:before {
+  content: '\e674';
+}
+
+.hxicon-favfill:before {
+  content: '\e685';
+}
+
+.hxicon-fav:before {
+  content: '\e686';
+}
+
+.hxicon-share:before {
+  content: '\e764';
+}
